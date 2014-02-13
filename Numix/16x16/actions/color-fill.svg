@@ -14,8 +14,8 @@
    height="16"
    viewBox="0 0 16 16"
    id="svg2"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="bucket.svg">
+   inkscape:version="0.48+devel r12515"
+   sodipodi:docname="color-fill.svg">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,23 +40,23 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1056"
+     inkscape:window-height="1028"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="41.7193"
-     inkscape:cx="14.491919"
-     inkscape:cy="6.6645561"
-     inkscape:window-x="1920"
-     inkscape:window-y="24"
+     inkscape:cx="11.184097"
+     inkscape:cy="6.6166167"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="g3800" />
   <g
      id="g4" />
   <g
      id="g3800">
     <path
        sodipodi:nodetypes="ccsccsccssssscc"
-       style="fill:#cccccc;fill-opacity:1"
+       style="fill:#999999;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path6"
        d="m 14.008801,9.1438434 c 0,0 -3.932527,4.3470796 -5.8954185,6.3155236 -0.3524111,0.342456 -0.7725169,0.513684 -1.2603175,0.513684 -0.4878006,0 -0.9079064,-0.171228 -1.2603175,-0.513684 L 0.58432942,10.450949 C 0.24187348,10.098538 0.07064551,9.6784331 0.07064551,9.1906324 c 0,-0.4878006 0.17122797,-0.9079064 0.51368391,-1.2603174 l 4.46387338,-4.4489407 0,1.5559844 c 0,0.5495223 0.1944565,1.01874 0.5833697,1.4076532 0.3889131,0.3889131 0.8581308,0.5833697 1.4076531,0.5833697 0.5495224,0 1.0187401,-0.1944566 1.4076532,-0.5833697 C 8.835792,6.0560987 9.0302485,5.586881 9.0302485,5.0373587 l 0,-1.1826676 c 0,0 4.9205575,5.3161862 4.9785525,5.2891523 z" />
